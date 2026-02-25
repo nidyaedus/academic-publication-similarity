@@ -2,7 +2,6 @@
 
 ---
 
-## 🌐 Language / Dil
 [🇹🇷 Türkçe](#-türkçe) | [🇬🇧 English](#-english)
 
 ---
@@ -110,3 +109,4 @@ Through this project:
 ## 📄 License
 
 This project was developed for educational purposes.
+
