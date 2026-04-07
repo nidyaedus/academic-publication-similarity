@@ -1,4 +1,4 @@
-# 📚 OpenAlex Tabanlı İçerik Bazlı Akademik Yayın Benzerlik Sistemi  
+# OpenAlex Tabanlı İçerik Bazlı Akademik Yayın Benzerlik Sistemi  
 
 ---
 
