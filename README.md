@@ -2,13 +2,13 @@
 
 ---
 
-[🇹🇷 Türkçe](#-türkçe) | [🇬🇧 English](#-english)
+[ Türkçe](#-türkçe) | [ English](#-english)
 
 ---
 
-# 🇹🇷 Türkçe
+# Türkçe
 
-## 📌 Proje Hakkında
+## Proje Hakkında
 
 Bu proje, **Veri Madenciliği dersi kapsamında** gerçekleştirilmiştir.  
 Çalışmanın temel amacı, OpenAlex API kullanılarak akademik yayınlar arasında içerik bazlı benzerlik analizi yapabilen bir sistem geliştirmek ve ders kapsamında öğrenilen teorik bilgileri uygulamaya dönüştürmektir.
@@ -17,7 +17,7 @@ Bu doğrultuda, veri toplama, veri ön işleme, metin vektörleştirme ve benzer
 
 ---
 
-## 🎯 Projenin Amacı
+## Projenin Amacı
 
 - OpenAlex API üzerinden veri çekme sürecinin uygulamalı olarak öğrenilmesi  
 - Ham metin verisinin temizlenmesi ve dönüştürülmesi süreçlerinin uygulanması  
@@ -30,7 +30,7 @@ Bu çalışma ile veri madenciliği dersinde öğrenilen teorik bilgiler pratiğ
 
 ---
 
-## 🛠 Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 - Python  
 - OpenAlex API  
@@ -42,7 +42,7 @@ Bu çalışma ile veri madenciliği dersinde öğrenilen teorik bilgiler pratiğ
 
 ---
 
-## 📈 Öğrenim Sürecine Katkıları
+## Öğrenim Sürecine Katkıları
 
 Bu proje kapsamında:
 
@@ -55,11 +55,11 @@ Bu proje kapsamında:
 
 ---
 
-# 🇬🇧 English
+# English
 
-# 📚 OpenAlex-Based Content Similarity System for Academic Publications  
+# OpenAlex-Based Content Similarity System for Academic Publications  
 
-## 📌 About the Project
+## About the Project
 
 This project was conducted as part of a **Data Mining course**.  
 The primary objective is to develop a content-based similarity system for academic publications using the OpenAlex API and to transform theoretical knowledge into practical implementation.
@@ -68,7 +68,7 @@ The complete pipeline, including data collection, preprocessing, vectorization, 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Apply data retrieval from the OpenAlex API  
 - Implement text preprocessing techniques  
@@ -81,7 +81,7 @@ Through this study, theoretical knowledge gained in the Data Mining course was t
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python  
 - OpenAlex API  
@@ -93,7 +93,7 @@ Through this study, theoretical knowledge gained in the Data Mining course was t
 
 ---
 
-## 📈 Learning Outcomes
+## Learning Outcomes
 
 Through this project:
 
@@ -106,7 +106,7 @@ Through this project:
 
 ---
 
-## 📄 License
+## License
 
 This project was developed for educational purposes.
 
